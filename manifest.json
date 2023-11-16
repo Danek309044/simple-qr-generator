@@ -1,0 +1,19 @@
+{
+    "name": "Simple QR Code Generator",
+    "version": "1.0.0",
+    "description": "Generates a QR code based off on what website are you.",
+    "manifest_version": 3,
+    "author": "Daniel Benýšek",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "QR Generator"
+    },
+    "icons": {
+        "16": "16.png"
+    },
+    "permissions": [
+        "tabs",
+        "storage",
+        "downloads"
+    ]
+}
