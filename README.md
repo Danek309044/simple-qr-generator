@@ -1,5 +1,5 @@
 # Simple QR Generator
-### Generates a QR code based off on what website are you.
+### Generates a QR code based off on what website are you or the text you input
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/danek309044/simple-qr-generator?style=for-the-badge) ![GitHub all releases](https://img.shields.io/github/downloads/danek309044/simple-qr-generator/total?style=for-the-badge&color=%2314ba14) ![GitHub](https://img.shields.io/github/license/danek309044/simple-qr-generator?style=for-the-badge)
 
