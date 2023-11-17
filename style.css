@@ -15,6 +15,20 @@ a, a:visited {
 a:hover, a:active {
     color: #858585;
 }
+input {
+    padding: 5px;
+    border-radius: 4px;
+    border-style: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 95%;
+    outline: none;
+    background-color: #e7e7e7;
+}
+input:focus{
+    outline: none;
+    background-color: #dbdbdb;
+}
 @media (prefers-color-scheme: dark) {
     body {
         background: #1f1f1f;
@@ -26,4 +40,13 @@ a:hover, a:active {
     a:hover, a:active {
         color: #858585;
     }
+    input{
+        color: #fff;
+        background-color: #272727;
+    }
+    input:focus{
+        color: #fff;
+        background-color: #303030;
+    }
 }
+
