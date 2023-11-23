@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Download function
 function downloadFile(url) {
-    download.href= `https://api.qrserver.com/v1/create-qr-code/?format=png&download=1&size=512x512&data=${url}`;
+    download.href= `https://api.qrserver.com/v1/create-qr-code/?format=png&download=1&size=512x512&qzone=1&data=${url}`;
 };
 
 // QR generating function
