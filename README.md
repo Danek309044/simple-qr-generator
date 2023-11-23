@@ -8,7 +8,7 @@
 
 ***
 
-<a href="https://chromewebstore.google.com/detail/simple-gr-generator/himhgbnhhpjahbobhnigcgmipneoihdl"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a>
+<a href="https://chromewebstore.google.com/detail/simple-qr-generator/jllgppbmeimnkjkkocdkhidjnlfjikio"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a>
 
 ***
 
