@@ -1,8 +1,8 @@
 {
-    "name": "Simple QR Code Generator",
-    "version": "1.2.1",
-    "description": "Generates a QR code based off on what website are you or the text you input.",
     "manifest_version": 3,
+    "name": "Simple QR Code Generator",
+    "version": "1.3",
+    "description": "Generates a QR code based off on what website are you or the text you input.",
     "author": "Daniel Benýšek",
     "action":{
         "default_popup": "index.html",
