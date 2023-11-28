@@ -8,6 +8,11 @@
         "default_popup": "index.html",
         "default_title": "QR Generator"
     },
+    "browser_specific_settings": {
+        "gecko": {
+          "id": "danek309044@proton.me"
+        }
+    },
     "icons": {
         "16": "src/icons/16.png",
         "128": "src/icons/128.png"
