@@ -8,7 +8,8 @@
 
 ***
 
-<a href="https://chromewebstore.google.com/detail/simple-qr-generator/jllgppbmeimnkjkkocdkhidjnlfjikio"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a>
+<a href="https://chromewebstore.google.com/detail/simple-qr-generator/jllgppbmeimnkjkkocdkhidjnlfjikio"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/simple-qr-code-gen/"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png"></a>
+
 
 ***
 
