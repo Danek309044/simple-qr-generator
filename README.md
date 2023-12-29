@@ -23,8 +23,8 @@
     </thead>
     <tbody>
         <tr>
-            <td align="center" valign="top"><img src="https://files.d309044.eu/Yimi1/DOLUxAZu60.png/raw"></td>
-            <td align="center"><img src="https://files.d309044.eu/Yimi1/VOLiNOZO06.png/raw"></td>
+            <td align="center" valign="top"><img src="https://github.com/Danek309044/simple-qr-generator/blob/main/images/dark.png?raw=true"></td>
+            <td align="center"><img src="https://github.com/Danek309044/simple-qr-generator/blob/main/images/light.png?raw=true"></td>
         </tr>
     </tbody>
 </table>
