@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function () {
         downloadQr(tabUrl);
 
         // Custom input
-        document.addEventListener("focusout", function () {
+        document.addEventListener("keyup", function () {
             if (input.value == '') {
                 qrcode(tabUrl)
                 download.addEventListener('click', downloadQr(tabUrl));
