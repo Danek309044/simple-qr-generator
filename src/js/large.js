@@ -23,11 +23,11 @@ generateBtn.onclick = function () {
     const bg = background.value.replace(/^#/, '');
 
     const qrData = input.value;
-    const qrWidth = width.value || 512; // Default to 512 if no width provided
-    const qrHeight = height.value || 512; // Default to 512 if no height provided
+    const qrWidth = width.value;
+    const qrHeight = height.value;
 
     // Update the QR code image source
-    qrImg.src = `https://api.qrserver.com/v1/create-qr-code/?bgcolor=${bg}&color=${mainC}&qzone=1&format=png&size=${qrWidth}x${qrHeight}&data=${qrData}`;
+    qrImg.src = `https://api.qrserver.com/v1/create-qr-code/?bgcolor=${bg}&color=${mainC}&qzone=1&format=png&size=512x512&data=${qrData}`;
 
     // Update the download link
     download.href = `https://api.qrserver.com/v1/create-qr-code/?bgcolor=${bg}&color=${mainC}&format=png&download=1&size=${qrWidth}x${qrHeight}&qzone=1&data=${qrData}`;
