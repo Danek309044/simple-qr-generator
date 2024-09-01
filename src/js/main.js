@@ -37,6 +37,8 @@ document.addEventListener('DOMContentLoaded', function () {
             });
         }
     }
+
+    // Render the QR Code
     getCurrentTabUrl().then(function (tabUrl) {
         input.placeholder = tabUrl;
         qrcode(tabUrl);

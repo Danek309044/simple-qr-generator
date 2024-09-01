@@ -1,0 +1,16 @@
+@import url(global.css);
+.topbar{
+    margin-bottom: 5px;
+}
+.topbar a:first-child {
+    float:left;
+}
+#download {
+    font-size: large;
+}
+input {
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 95%;
+}

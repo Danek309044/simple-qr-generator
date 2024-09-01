@@ -4,13 +4,13 @@
     "version": "1.3.1",
     "description": "Generates a QR code based off on what website are you or the text you input.",
     "author": "Danek309044",
-    "action":{
-        "default_popup": "index.html",
+    "action": {
+        "default_popup": "popup.html",
         "default_title": "QR Generator"
     },
     "browser_specific_settings": {
         "gecko": {
-          "id": "danek309044@proton.me"
+            "id": "danek309044@proton.me"
         }
     },
     "icons": {
@@ -18,6 +18,7 @@
         "128": "src/icons/128.png"
     },
     "permissions": [
-        "tabs"
+        "tabs",
+        "storage"
     ]
 }
