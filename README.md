@@ -26,7 +26,11 @@
     <tbody>
         <tr>
             <td align="center" valign="top"><img src="https://github.com/Danek309044/simple-qr-generator/blob/main/images/dark.png?raw=true"></td>
-            <td align="center"><img src="https://github.com/Danek309044/simple-qr-generator/blob/main/images/light.png?raw=true"></td>
+            <td align="center"><img src="https://github.com/Danek309044/simple-qr-generator/blob/main/images/light.png?raw=true"></td>   
+        </tr>
+        <tr>
+            <td align="center" valign="top"><img src="https://github.com/Danek309044/simple-qr-generator/blob/main/images/darkLarge.png?raw=true"></td>
+            <td align="center"><img src="https://github.com/Danek309044/simple-qr-generator/blob/main/images/lightLarge.png?raw=true"></td>   
         </tr>
     </tbody>
 </table>
