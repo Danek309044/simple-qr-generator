@@ -15,14 +15,12 @@
     <h1>Advanced QR Code Generator</h1>
     <div class="container">
         <div class="options">
-            <h2>Options</h2>
-            <p>Width x height</p>
-            <input placeholder="250" type="number" id="width" value="250">px x <input placeholder="250" type="number" id="height" value="250">px<br>
-            <p>Background and main color</p>
-            <input type="color" value="#ffffff" id="background"><input type="color" value="#000000" id="main">
-            <p>Text</p>
-            <textarea placeholder="Enter text that will be turned into a qr code here" type="text" id="input" value=""></textarea><br>
-            <button id="generate"><i class="fa-solid fa-plus"></i> Generate QR Code</button>
+            <h2 style="text-align: center;">Options</h2>
+            Width x height<input placeholder="250" type="number" id="widthHeight" value="250">px<br>
+            Main color<input type="color" value="#000000" id="main"><br>
+            Background color<input type="color" value="#ffffff" id="background"><br>
+            <p>QR code value</p>
+            <textarea placeholder="Enter text here, that you want to make a qr code of" type="text" id="input" value=""></textarea><br>
         </div>
         <div id="qr">
             <h2>Preview</h2>
